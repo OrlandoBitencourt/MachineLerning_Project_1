@@ -1,3 +1,3 @@
 # Projeto I - Aplicação de Métodos de Aprendizagem de Máquina
 
-## Orlando Cechlar Bitencourt
+## Aluno: Orlando Cechlar Bitencourt
